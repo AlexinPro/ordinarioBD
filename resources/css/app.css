@@ -1,0 +1,8 @@
+@import 'bootstrap';
+@import '@fortawesome/fontawesome-free/css/all.min.css';
+
+.gradient-bg {
+    background: linear-gradient(45deg, #d2353a, #dff142, #1542d7);
+    height: 100vh;
+    margin: 0;
+}
